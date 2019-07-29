@@ -1,0 +1,161 @@
+2019-07-28 08:14:14,821 [main] INFO ebanking - URL is opened
+2019-07-28 08:14:38,824 [main] INFO ebanking - username entered
+2019-07-28 08:14:39,308 [main] INFO ebanking - pwd entered
+2019-07-28 08:14:44,157 [main] INFO ebanking - TEST PASS
+2019-07-28 08:55:32,488 [main] INFO ebanking - URL is opened
+2019-07-28 08:55:56,713 [main] INFO ebanking - username entered
+2019-07-28 08:55:56,995 [main] INFO ebanking - pwd entered
+2019-07-28 08:56:34,108 [main] INFO ebanking - TEST PASS
+2019-07-28 10:05:57,636 [main] INFO ebanking - URL is opened
+2019-07-28 10:06:10,539 [main] INFO ebanking - username entered
+2019-07-28 10:06:11,212 [main] INFO ebanking - pwd entered
+2019-07-28 10:06:29,610 [main] INFO ebanking - TEST PASS
+2019-07-28 10:14:33,738 [main] INFO ebanking - URL is opened
+2019-07-28 10:47:01,172 [main] INFO ebanking - URL is opened
+2019-07-28 10:47:08,770 [main] INFO ebanking - username entered
+2019-07-28 10:47:09,367 [main] INFO ebanking - pwd entered
+2019-07-28 10:47:18,884 [main] INFO ebanking - TEST PASS
+2019-07-28 10:49:17,727 [main] INFO ebanking - URL is opened
+2019-07-28 10:49:19,511 [main] INFO ebanking - username entered
+2019-07-28 10:49:19,943 [main] INFO ebanking - pwd entered
+2019-07-28 10:49:26,757 [main] INFO ebanking - TEST PASS
+2019-07-28 10:52:26,152 [main] INFO ebanking - URL is opened
+2019-07-28 11:13:10,568 [main] INFO ebanking - URL is opened
+2019-07-28 11:22:37,106 [main] INFO ebanking - URL is opened
+2019-07-28 13:43:26,533 [main] INFO ebanking - URL is opened
+2019-07-28 13:43:37,671 [main] INFO ebanking - username entered
+2019-07-28 13:43:38,646 [main] INFO ebanking - pwd entered
+2019-07-28 13:43:53,669 [main] INFO ebanking - TEST PASS
+2019-07-28 14:21:04,013 [main] INFO ebanking - URL is opened
+2019-07-28 14:21:22,042 [main] INFO ebanking - username entered
+2019-07-28 14:21:22,564 [main] INFO ebanking - pwd entered
+2019-07-28 15:37:46,618 [main] INFO ebanking - user name entered
+2019-07-28 15:37:48,263 [main] INFO ebanking - password entered
+2019-07-28 15:38:11,135 [main] WARN ebanking - Login FAIL
+2019-07-28 15:38:13,038 [main] INFO ebanking - user name entered
+2019-07-28 15:38:14,479 [main] INFO ebanking - password entered
+2019-07-28 15:38:29,724 [main] INFO ebanking - Login PASS
+2019-07-28 15:38:47,681 [main] INFO ebanking - user name entered
+2019-07-28 15:38:48,753 [main] INFO ebanking - password entered
+2019-07-28 15:39:04,327 [main] WARN ebanking - Login FAIL
+2019-07-28 15:39:05,540 [main] INFO ebanking - user name entered
+2019-07-28 15:39:06,584 [main] INFO ebanking - password entered
+2019-07-28 15:39:27,224 [main] INFO ebanking - Login PASS
+2019-07-28 15:39:52,933 [main] INFO ebanking - user name entered
+2019-07-28 15:39:53,870 [main] INFO ebanking - password entered
+2019-07-28 15:40:14,788 [main] WARN ebanking - Login FAIL
+2019-07-28 15:58:44,035 [main] INFO ebanking - URL is opened
+2019-07-28 15:59:38,424 [main] INFO ebanking - username entered
+2019-07-28 16:00:16,488 [main] INFO ebanking - pwd entered
+2019-07-28 16:02:45,425 [main] INFO ebanking - URL is opened
+2019-07-28 16:03:38,067 [main] INFO ebanking - username entered
+2019-07-28 16:04:15,342 [main] INFO ebanking - pwd entered
+2019-07-28 16:08:42,165 [main] INFO ebanking - URL is opened
+2019-07-28 16:09:36,558 [main] INFO ebanking - username entered
+2019-07-28 16:10:15,795 [main] INFO ebanking - pwd entered
+2019-07-28 16:12:42,946 [main] INFO ebanking - URL is opened
+2019-07-28 16:13:34,633 [main] INFO ebanking - username entered
+2019-07-28 16:14:12,307 [main] INFO ebanking - pwd entered
+2019-07-28 16:17:04,291 [main] INFO ebanking - URL is opened
+2019-07-28 16:17:57,153 [main] INFO ebanking - username entered
+2019-07-28 16:18:34,501 [main] INFO ebanking - pwd entered
+2019-07-28 16:23:09,615 [main] INFO ebanking - URL is opened
+2019-07-28 16:23:30,908 [main] INFO ebanking - username entered
+2019-07-28 16:23:31,633 [main] INFO ebanking - pwd entered
+2019-07-28 16:23:59,788 [main] INFO ebanking - TEST PASS
+2019-07-28 17:14:41,545 [main] INFO ebanking - username entered to login
+2019-07-28 17:14:42,287 [main] INFO ebanking - password entered to login
+2019-07-28 17:14:54,713 [main] INFO ebanking - Providing new customer detail..
+2019-07-28 17:15:22,851 [main] INFO ebanking - Validation Started...
+2019-07-28 17:15:23,149 [main] INFO ebanking - Test PASS
+2019-07-28 17:16:49,011 [main] INFO ebanking - URL is opened
+2019-07-28 17:16:56,863 [main] INFO ebanking - username entered
+2019-07-28 17:16:57,802 [main] INFO ebanking - pwd entered
+2019-07-28 17:18:13,444 [main] INFO ebanking - user name entered
+2019-07-28 17:18:14,270 [main] INFO ebanking - password entered
+2019-07-28 17:18:24,120 [main] WARN ebanking - Login FAIL
+2019-07-28 17:18:25,211 [main] INFO ebanking - user name entered
+2019-07-28 17:18:25,908 [main] INFO ebanking - password entered
+2019-07-28 17:18:44,894 [main] INFO ebanking - Login PASS
+2019-07-28 17:19:07,610 [main] INFO ebanking - user name entered
+2019-07-28 17:19:08,183 [main] INFO ebanking - password entered
+2019-07-28 17:19:18,449 [main] WARN ebanking - Login FAIL
+2019-07-28 17:19:19,186 [main] INFO ebanking - user name entered
+2019-07-28 17:19:19,819 [main] INFO ebanking - password entered
+2019-07-28 17:19:33,203 [main] INFO ebanking - Login PASS
+2019-07-28 17:19:47,473 [main] INFO ebanking - user name entered
+2019-07-28 17:19:47,681 [main] INFO ebanking - password entered
+2019-07-28 17:19:57,752 [main] WARN ebanking - Login FAIL
+2019-07-28 17:21:14,473 [main] INFO ebanking - username entered to login
+2019-07-28 17:21:15,536 [main] INFO ebanking - password entered to login
+2019-07-28 17:21:49,737 [main] INFO ebanking - Providing new customer detail..
+2019-07-28 17:22:17,615 [main] INFO ebanking - Validation Started...
+2019-07-28 17:22:17,648 [main] INFO ebanking - Test PASS
+2019-07-28 17:27:18,965 [main] INFO ebanking - URL is opened
+2019-07-28 17:27:26,030 [main] INFO ebanking - username entered
+2019-07-28 17:27:26,298 [main] INFO ebanking - pwd entered
+2019-07-28 17:27:31,544 [main] INFO ebanking - TEST PASS
+2019-07-28 17:27:53,978 [main] INFO ebanking - user name entered
+2019-07-28 17:27:54,194 [main] INFO ebanking - password entered
+2019-07-28 17:27:59,709 [main] INFO ebanking - Login PASS
+2019-07-28 17:28:13,172 [main] INFO ebanking - user name entered
+2019-07-28 17:28:13,326 [main] INFO ebanking - password entered
+2019-07-28 17:28:25,013 [main] INFO ebanking - Login PASS
+2019-07-28 20:02:43,569 [main] INFO ebanking - username entered to login
+2019-07-28 20:02:44,291 [main] INFO ebanking - password entered to login
+2019-07-28 20:02:52,190 [main] INFO ebanking - Providing new customer detail..
+2019-07-28 20:03:06,919 [main] INFO ebanking - Validation Started...
+2019-07-28 20:03:06,985 [main] INFO ebanking - Test PASS
+2019-07-28 20:12:02,805 [main] INFO ebanking - URL is opened
+2019-07-28 20:12:15,727 [main] INFO ebanking - username entered
+2019-07-28 20:12:15,938 [main] INFO ebanking - pwd entered
+2019-07-28 20:12:19,851 [main] INFO ebanking - TEST PASS
+2019-07-28 20:13:02,009 [main] INFO ebanking - username entered to login
+2019-07-28 20:13:02,246 [main] INFO ebanking - password entered to login
+2019-07-28 20:13:14,710 [main] INFO ebanking - Providing new customer detail..
+2019-07-28 20:13:33,010 [main] INFO ebanking - Validation Started...
+2019-07-28 20:13:33,040 [main] INFO ebanking - Test PASS
+2019-07-28 20:51:18,423 [main] INFO ebanking - URL is opened
+2019-07-28 20:51:38,582 [main] INFO ebanking - username entered
+2019-07-28 20:51:39,347 [main] INFO ebanking - pwd entered
+2019-07-28 20:51:53,280 [main] INFO ebanking - TEST PASS
+2019-07-28 20:52:34,831 [main] INFO ebanking - username entered to login
+2019-07-28 20:52:36,032 [main] INFO ebanking - password entered to login
+2019-07-28 20:53:07,019 [main] INFO ebanking - Providing new customer detail..
+2019-07-28 20:53:42,135 [main] INFO ebanking - Validation Started...
+2019-07-28 20:53:42,209 [main] INFO ebanking - Test PASS
+2019-07-28 20:58:31,228 [main] INFO ebanking - URL is opened
+2019-07-28 20:58:34,228 [main] INFO ebanking - username entered
+2019-07-28 20:58:34,449 [main] INFO ebanking - pwd entered
+2019-07-28 20:58:37,154 [main] INFO ebanking - TEST PASS
+2019-07-28 20:58:46,010 [main] INFO ebanking - username entered to login
+2019-07-28 20:58:46,218 [main] INFO ebanking - password entered to login
+2019-07-28 20:58:51,957 [main] INFO ebanking - Providing new customer detail..
+2019-07-28 20:59:17,717 [main] INFO ebanking - Validation Started...
+2019-07-28 21:04:02,294 [main] INFO ebanking - URL is opened
+2019-07-28 21:04:21,546 [main] INFO ebanking - username entered
+2019-07-28 21:04:21,696 [main] INFO ebanking - pwd entered
+2019-07-28 21:04:25,232 [main] INFO ebanking - TEST PASS
+2019-07-28 21:05:37,732 [main] INFO ebanking - username entered to login
+2019-07-28 21:05:38,397 [main] INFO ebanking - password entered to login
+2019-07-28 21:05:50,463 [main] INFO ebanking - Providing new customer detail..
+2019-07-28 21:06:04,522 [main] INFO ebanking - Validation Started...
+2019-07-28 21:06:04,568 [main] INFO ebanking - Test PASS
+2019-07-28 21:58:33,849 [main] INFO ebanking - URL is opened
+2019-07-28 21:58:44,179 [main] INFO ebanking - username entered
+2019-07-28 21:58:44,820 [main] INFO ebanking - pwd entered
+2019-07-28 21:59:03,655 [main] INFO ebanking - TEST PASS
+2019-07-28 21:59:38,589 [main] INFO ebanking - username entered to login
+2019-07-28 21:59:39,325 [main] INFO ebanking - password entered to login
+2019-07-28 21:59:55,880 [main] INFO ebanking - Providing new customer detail..
+2019-07-28 22:00:30,154 [main] INFO ebanking - Validation Started...
+2019-07-28 22:00:30,183 [main] INFO ebanking - Test PASS
+2019-07-28 22:33:20,277 [main] INFO ebanking - URL is opened
+2019-07-28 22:33:27,789 [main] INFO ebanking - username entered
+2019-07-28 22:33:28,407 [main] INFO ebanking - pwd entered
+2019-07-28 22:33:37,341 [main] INFO ebanking - TEST PASS
+2019-07-28 22:34:19,957 [main] INFO ebanking - username entered to login
+2019-07-28 22:34:20,745 [main] INFO ebanking - password entered to login
+2019-07-28 22:34:44,859 [main] INFO ebanking - Providing new customer detail..
+2019-07-28 22:35:13,284 [main] INFO ebanking - Validation Started...
+2019-07-28 22:35:18,249 [main] INFO ebanking - Test PASS
